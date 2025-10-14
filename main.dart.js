@@ -30174,7 +30174,7 @@ if(a===2)return b+31
 s=B.d.hp(30.6*a-91.4)
 r=c?1:0
 return s+b+59+r},
-q6(){return"https://your-render-app.onrender.com"},
+q6(){return"https://klarifikasiid-backend-main-ki47jp.laravel.cloud//"},
 b7l(){var s,r,q,p,o,n,m,l,k,j,i,h=null
 if($.a6==null){s=t.GA
 r=A.b([],s)
