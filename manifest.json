@@ -1,11 +1,11 @@
 {
-    "name": "klarifikasi_id",
-    "short_name": "klarifikasi_id",
+    "name": "Klarifikasi.id",
+    "short_name": "Klarifikasi.id",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#1a1a2e",
+    "theme_color": "#1a1a2e",
+    "description": "Klarifikasi.id v2.0.0 - Aplikasi fact-checking modern dengan AI Gemini untuk memverifikasi kebenaran informasi.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

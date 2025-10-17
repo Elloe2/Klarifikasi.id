@@ -1,1 +1,17 @@
-{"app_name":"klarifikasi_id","version":"0.1.0","package_name":"klarifikasi_id"}
+{
+  "version": "2.0.0",
+  "build_date": "2025-01-15",
+  "build_time": "12:30:00",
+  "features": [
+    "Gemini AI Integration",
+    "Custom Gemini Logo",
+    "Collapsible UI",
+    "Simplified Analysis",
+    "Enhanced UX",
+    "Performance Optimizations",
+    "Custom Klarifikasi Logo"
+  ],
+  "api_endpoint": "https://klarifikasiid-backend-main-ki47jp.laravel.cloud",
+  "deployment_status": "ready",
+  "logo_updated": true
+}

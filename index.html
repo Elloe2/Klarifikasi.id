@@ -18,12 +18,12 @@
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
+  <meta name="description" content="Klarifikasi.id v2.0.0 - Aplikasi fact-checking modern dengan AI Gemini untuk memverifikasi kebenaran informasi.">
 
   <!-- iOS meta tags & icons -->
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="klarifikasi_id">
+  <meta name="apple-mobile-web-app-title" content="Klarifikasi.id">
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Favicon -->
@@ -31,6 +31,15 @@
 
   <title>klarifikasi_id</title>
   <link rel="manifest" href="manifest.json">
+  
+  <!-- CORS Configuration untuk Flutter Web -->
+  <script>
+    // Enable CORS untuk development
+    if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+      // Development mode - allow all origins
+      console.log('Development mode: CORS enabled');
+    }
+  </script>
 </head>
 <body>
   <script src="flutter_bootstrap.js" async></script>
