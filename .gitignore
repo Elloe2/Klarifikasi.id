@@ -71,3 +71,6 @@ bootstrap/cache/*
 Thumbs.db
 
 .vercel
+
+# Deployment folder
+Klarifikasi.id Deployment/
